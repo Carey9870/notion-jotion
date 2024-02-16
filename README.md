@@ -1,6 +1,6 @@
-                      #Your Ideas, Documents and Plans. Unified. Welcome to Notion
+View and Interact with the app via: https://notion-jotion-theta.vercel.app/
 
-    View and Interact with the app via: https://notion-jotion-theta.vercel.app/
+#Your Ideas, Documents and Plans. Unified. Welcome to Notion
 
 ![1](https://github.com/Carey9870/notion-jotion/assets/100701309/b97d82b7-9a40-46c8-be33-60d043e448bd)
 
