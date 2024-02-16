@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+                      #Your Ideas, Documents and Plans. Unified. Welcome to Notion
 
-## Getting Started
+    View and Interact with the app via: https://notion-jotion-theta.vercel.app/
 
-First, run the development server:
+![1](https://github.com/Carey9870/notion-jotion/assets/100701309/b97d82b7-9a40-46c8-be33-60d043e448bd)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![2](https://github.com/Carey9870/notion-jotion/assets/100701309/efab07e3-6c5e-4d80-99b9-2f821124f062)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![3](https://github.com/Carey9870/notion-jotion/assets/100701309/34459ee4-e6ca-497c-a46e-d92710232cdf)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![4](https://github.com/Carey9870/notion-jotion/assets/100701309/5615ad35-e164-4a93-96d5-2112327f3e32)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![5](https://github.com/Carey9870/notion-jotion/assets/100701309/c1f012a0-54db-40ac-9dba-222c688a45d6)
 
-## Learn More
+![6](https://github.com/Carey9870/notion-jotion/assets/100701309/a4478ba7-a75b-4207-b931-85fc1a398f86)
 
-To learn more about Next.js, take a look at the following resources:
+![7](https://github.com/Carey9870/notion-jotion/assets/100701309/d51beb15-5c8e-4ef2-a08f-b3783801837a)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![8](https://github.com/Carey9870/notion-jotion/assets/100701309/b26c2655-fbd5-4eb3-9c17-f2616c742994)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![9](https://github.com/Carey9870/notion-jotion/assets/100701309/7cf6c386-a296-4ecf-95ba-8aff9586ebc1)
